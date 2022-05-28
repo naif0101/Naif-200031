@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "76294159755",
+    "project_id": "naif-200031",
+    "storage_bucket": "naif-200031.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76294159755:android:9b083b7c9ff467799e438e",
+        "android_client_info": {
+          "package_name": "alfaisal.naif.naif_200031"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76294159755-tp63m1s07p90g8nt9a95t4snpos5spa2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi_X3cOZ1LzfsOKWdsg9_mQiw5Kw54YEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76294159755-tp63m1s07p90g8nt9a95t4snpos5spa2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
